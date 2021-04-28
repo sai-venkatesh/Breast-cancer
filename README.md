@@ -1,4 +1,4 @@
-# Breast-cancer
+# Breast-cancer(python)
 This project is building a machine learning model through SVM classifier and handling the breast cancer dataset to bring the best possible accuracy of the outcome.et
 
 Steps that are involved in building the machine learning model and finding the accuracy:
